@@ -1,4 +1,4 @@
-package chat.model;
+package chat.view;
 
 public class ChatViewer {
 
