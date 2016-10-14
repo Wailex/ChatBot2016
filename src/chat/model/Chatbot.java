@@ -17,7 +17,9 @@ public class Chatbot {
 	 * * Creates an instance of the Chatbot with the supplied username. * @param
 	 * userName The username for the chatbot.
 	 */
-	public Chatbot(String userName) {
+	public Chatbot(String userName) 
+	{
+	memesList = new ArrayList<String>();
 	}
 
 	private void buildMemesList() {

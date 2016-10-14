@@ -2,9 +2,9 @@ package chat.controller;
 
 public class ChatbotRunner {
 
-	public stat void main(String [] args)
+	public static void main(String [] args)
 	{
-		ChatController
+		ChatController chatAppController
 	}
 	
 	
