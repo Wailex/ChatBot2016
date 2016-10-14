@@ -2,7 +2,7 @@ package chat.controller;
 
 public class ChatbotRunner {
 
-	public start void main(String [] args)
+	public stat void main(String [] args)
 	{
 		ChatController
 	}
