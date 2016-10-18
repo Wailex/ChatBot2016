@@ -25,7 +25,8 @@ public class Chatbot {
 	private void buildMemesList() {
 	}
 
-	private void buildPoliticalTopicsList() {
+	private void buildPoliticalTopicsList() 
+	{
 	}
 
 	/**
