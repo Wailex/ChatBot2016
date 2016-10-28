@@ -74,7 +74,13 @@ public class Chatbot {
 	public boolean politicalTopicChecker(String currentInput) {
 		return false;
 	}
-
+	
+	
+	
+	
+	
+	
+	
 	/**
 	 * * Checks to see that the supplied String value is in the current
 	 * memesList variable.
@@ -86,7 +92,13 @@ public class Chatbot {
 	public boolean memeChecker(String currentInput) {
 		return false;
 	}
-
+	
+	ArrayList<String> list = new ArrayList<String>();
+	
+	
+	
+	
+	
 	/**
 	 * * Returns the username of this Chatbot instance. * @return The username
 	 * of the Chatbot.
